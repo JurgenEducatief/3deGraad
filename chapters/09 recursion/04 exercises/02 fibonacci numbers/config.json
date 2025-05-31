@@ -5,11 +5,9 @@
       "en": "Fibonacci numbers"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "eUmYHKfIxQ9kK5Uder5IqyIWQVVRmHdkXQBVaDAZeB5-YDH87Pr52DZw9PHWp3fH",
+    "token": "mjcdpgJC8VwREPxU9zZuTAFzfRcvE38ifWnfgSIswK67Fre8QDI5Ux2qt2rinfFC",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

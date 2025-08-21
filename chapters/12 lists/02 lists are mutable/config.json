@@ -5,11 +5,9 @@
       "en": "Lists are mutable"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "FsMbnRrfr8cdAHvpSqwcJirmvbq7ui-wJct-Rk3X5mPWUg4PuKaVxZGsRcXCBWkR",
+    "token": "UIuMGuEtQ6iTuZu4aig62eN9ycSZa8gX6HhAtb3dyGq-7iStdSIw2MMKcwKnJ4qC",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

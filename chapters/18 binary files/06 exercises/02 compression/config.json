@@ -5,11 +5,9 @@
       "en": "Compression (TODO)"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "N4aMp3ewNTk4RIvyzYvSdZ-_kR5r38qQV48Xz3unZEcy2Cp5UHeI8CjWDuQpVYQQ",
+    "token": "imVdXrItTG5jKR6t7DhdQk6qHbJP_DmCb5e2Zx2BUGpWpjpdAV5zNDWPmasD88B8",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

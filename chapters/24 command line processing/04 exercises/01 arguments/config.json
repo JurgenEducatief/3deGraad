@@ -5,14 +5,12 @@
       "en": "Sum (TODO)"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "evaluation": {
     "handler": "tested"
   },
   "internals": {
-    "token": "uPxAgjhujZKktJxhJ6x8ihkeaqDUD2feTRyxIkPpenpebQEuB-BYIgrsKnqZ6V52",
+    "token": "76sdXI76ssqVSqs2TKYGPucKM4pxIUkbQYid63iWwnZM3FGhViPS_BkcA2TaCd-Y",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

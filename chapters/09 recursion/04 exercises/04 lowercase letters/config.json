@@ -5,14 +5,12 @@
       "en": "Lowercase letters"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "evaluation": {
     "pythia_judge": "output"
   },
   "internals": {
-    "token": "jD3FdiHEzdbyUwsmrI3I7sCJynwFwZWnSfQJThQtuAFznsSmTamH8AYfgzfi5bFt",
+    "token": "xHvsNGZSE4siKphAkIN6XqiCyw9zqPYBys2IihGQ5Z2b4KN7hKinaHMeuTaNXqeG",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

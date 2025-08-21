@@ -5,11 +5,9 @@
       "en": "Average of three values"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "eEMAXMEaWrfApSKaFxrPEje3aKRhZEngZpMePResRpI6MwrWEi43_VC-zRwZ-k99",
+    "token": "acnTXX8hBHGyyAKUn-EqrJQzQPmYtVeuD6eMDQKb6waHG3c9yif_7K7Mf7_SvXjS",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

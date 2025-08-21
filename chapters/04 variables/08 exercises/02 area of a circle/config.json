@@ -5,11 +5,9 @@
       "en": "Area of a circle"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "c9MSw-bYIh8ZCmWMgZqgmNWbdyWh4Gg766u-b3Dg3VmmyxEMGQrTKSqfwpfc_54r",
+    "token": "z6CzFavcUEdBIwjY62JfhsBITBFnSCxGJVC2Y-TBpMn2sI8pMd6TuNJYme5rcr-c",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

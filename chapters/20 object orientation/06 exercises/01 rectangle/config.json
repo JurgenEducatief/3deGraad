@@ -5,11 +5,9 @@
       "en": "Rectangle"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "Vib_7svxuyfxWuQeUUdcQCksfmTZbVAaUBNF9r4IfmZZnxtSNQShb9ythUWstZIS",
+    "token": "_H29Zfz9T27IEVSPqQwnXWchsGC6eGWTdQGi5wK6hHhpWh2NwrFDvU9m2kegJMan",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

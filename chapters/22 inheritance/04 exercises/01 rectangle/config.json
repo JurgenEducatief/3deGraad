@@ -5,11 +5,9 @@
       "en": "Rectangle (TODO)"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "irMQjkHR7sG7SV94arCefyW6Xd4cyvyGAG_6JD2mcRpwnAWDNI4zhWGeY34Eccpj",
+    "token": "SyUYNeDyfyWm3vdYcDaw_49r2C3DBBprVJd7WBPHVPewvjGEuhj9_wCeENSJugwC",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

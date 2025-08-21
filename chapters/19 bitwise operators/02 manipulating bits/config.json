@@ -5,11 +5,9 @@
       "en": "Manipulating bits"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "ApxiNAyDW3W7E2yX55E4Th4MW8iFzh7w5_N_dPqpqQX5qTUsQESaMM3mMtS7vPZI",
+    "token": "CvkMKWpRwPEPbmQ7YRam78FXbFPqdtynj8EsBwKcZhcAmQvKgbZXWWZzhYrad9tA",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

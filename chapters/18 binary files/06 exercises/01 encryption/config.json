@@ -5,11 +5,9 @@
       "en": "Encryption (TODO)"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "VvBs5nM7d5Vix8AiigHTJnxeUNJWHAweeNrc2n6F7gEmvFzWPiGbmPHIdGB9U4jt",
+    "token": "-K_dGeCEw_WciaGkuWA2zvIVfHhZvm7hvUwXM9hVq55dSnCwY5yKTa6Bg9ECguiq",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

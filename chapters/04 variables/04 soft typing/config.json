@@ -5,11 +5,9 @@
       "en": "Soft typing"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "a5RqJAmkG2FimU2zmEenZYN5AcyamQs2jfPj5Qrefsdqpd_iM9nERW6RGPZvgZ6A",
+    "token": "YHiKSRIb3kBf4wGCRmdYPEdgwgWNWU5aHmqYXBMfmHqX4g4ixX4Y-8RSdbccdw72",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

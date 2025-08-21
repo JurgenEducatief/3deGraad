@@ -5,11 +5,9 @@
       "en": "Python 2 or Python 3?"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "TdvD_BAjfWTRbrn8PhHxDSXYc3vVPckwcruEXXNgSmxmWReCAUtNJbDVe76NAgAy",
+    "token": "XixGAmfPk7Kuv9eUtKztcSXivImDdMJitnZdTtWXUCxauJReR99ZZc9m8gDSYKZi",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

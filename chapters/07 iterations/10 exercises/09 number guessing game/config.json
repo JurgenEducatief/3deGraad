@@ -5,11 +5,9 @@
       "en": "Number guessing game (TODO)"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "Pcvws3cyCVBKu6diMCWw8jtv8TXiPQNxTCQpAtSisx5adpx5bM9WHRjfIVKkRSFj",
+    "token": "j88GaYvmA5ZUgmfN-rfDDz7DsJNGiXURumKrYdNVXS-NqxR3CsgF9U8ha4xz6fwt",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

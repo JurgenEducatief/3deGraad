@@ -5,11 +5,9 @@
       "en": "Sum of two squares"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "w-cTcMFytSsz5pnz-mNCF5txy7FEcMdxhbRsWsAZQGupkjR3BCrcVJ9MXsiADnqW",
+    "token": "mN7yDzVqRptA76bTASt59U9uhQpvbWgEZeWa2mHhUBy8y9egxR46vsB8tZz5Huqm",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

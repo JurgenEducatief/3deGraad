@@ -5,11 +5,9 @@
       "en": "Lookup speed"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "QcuUn9fPa8myJAWp6R8JF6DivcBBIruVp2YQ6gbHjGdbCdUhFfIkNKeY6JmQbRad",
+    "token": "GutKfgFi8qsemQMch9C9EHGPJteTqY6CNUyPHVURr23tFUy2iJQ7uB5E7SEqRSps",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

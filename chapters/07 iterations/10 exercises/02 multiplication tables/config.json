@@ -5,11 +5,9 @@
       "en": "Multiplication tables"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "J7xrnPE79HercrGcHdVI5hqBqpvHJWnRWDmkg35mA54DcDBGjARVNkRWtMIbyHDQ",
+    "token": "Dzwbu6VSJzk2GVQFkGaUgbDc4gxANVnph8IGaz_t2TA4yvzNa5b-QYNIjyMHpfeB",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

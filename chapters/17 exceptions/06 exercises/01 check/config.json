@@ -5,11 +5,9 @@
       "en": "Check"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "ViSrvhxzS4bJNeQwsGkncFvAtWiv7JDmCetXTc6bvzEZky44nnWMxp7ksWNu7aBv",
+    "token": "jmbK3xRKzPFg-TyJBX5cmSf3--6SEiSgSNjrMXXWaHrgC9QJepPQD7DQ9bEW4hDN",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

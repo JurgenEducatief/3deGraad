@@ -5,11 +5,9 @@
       "en": "Style"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "g5uUAtvYMcVie37eIxaTp5b6FdceAqyIbCZbiUkKXN8uwJ2NupstGUa9knB8nhG8",
+    "token": "PwjrfN4Ujmhfatc_z_7pcJ2B4CVfpAwxYdkyyf7sC7StTtKNpEsIRcHJhSf_5hsQ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

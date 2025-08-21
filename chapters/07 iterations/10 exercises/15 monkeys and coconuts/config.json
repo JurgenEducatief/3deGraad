@@ -5,11 +5,9 @@
       "en": "Monkeys and coconuts"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "_rGAnve28WqGFQsQXWyMKPIderxHvA6jmnVQ9f9cQvIjDnmhrbsYB5DHVyg2zYJi",
+    "token": "WkRpRx4e9xgWv7kpxtAaFn6kjXT2xrVYTNgBQwV5Vtm3QFXqM3YPwKdFcusYazDJ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

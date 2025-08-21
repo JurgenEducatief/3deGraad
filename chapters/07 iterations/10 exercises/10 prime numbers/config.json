@@ -5,11 +5,9 @@
       "en": "Prime numbers"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "M8wqV4RPPUCNR6dbWB-8H2DjjwEyMuRJAHsdmDdv-WIfjsTg9Ebmtm7HD25fXhGT",
+    "token": "e_eyUKRp_TWeI9DqHSZfXRsF3RmI6GDvWAXcCdtnzgqBT5jyHZtPm72gPn6mQEe4",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

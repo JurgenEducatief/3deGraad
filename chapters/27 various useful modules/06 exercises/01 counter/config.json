@@ -5,11 +5,9 @@
       "en": "Counter (TODO)"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "EVw9xf5xBpAEKqVhaax9mPczHXfHzINC_8vUdiSB4Eb-8WCvIfATDnrhRIWCyikE",
+    "token": "pyV9KDBFAPmih3Sxuhp9R4dPJhzDmpgSIMCWTEuFN5HffDkBrnEFec_CQVVB2fF_",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

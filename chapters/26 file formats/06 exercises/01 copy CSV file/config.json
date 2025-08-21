@@ -5,11 +5,9 @@
       "en": "Copy CSV file"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "BKprBCePEZv2ChPRBI5uRpYy2xxSgbtayxGSMwu4UfipqKdxhfCqidxiHabMUQPY",
+    "token": "jvbvupftVmisjUJtzIwvkbBaadtpcD-NFqZcvpq2_r2-JBF53TRhkXHCH7_2Xbmu",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

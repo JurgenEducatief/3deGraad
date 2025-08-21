@@ -5,11 +5,9 @@
       "en": "What is wrong?"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "BZzs2z9mc7KjiMzZZhHq4djJpIuJjW2IqMDDaPbGNZPFskDJNjnhxv9i4h32hvIv",
+    "token": "XRYK_P72nchaCIwytaut8MVUftdtEVP_fbFkIZbg_V5rCZEh6e_NJ3axYsgumkYq",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

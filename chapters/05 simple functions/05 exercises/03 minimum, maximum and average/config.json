@@ -5,11 +5,9 @@
       "en": "Minimum, maximum and average"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "8MHdC3JiFX8YPd6ZnUaE2-CJ239AiZNPm6y9yYYhDIk-BcEGPQhkKs9af3PrtqnW",
+    "token": "paFpWBUv84MEBI_GtWpSDezpDB7RZZc-YF6NXPAUQV2Q3ht6spu4-wVDxWeHdjFy",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

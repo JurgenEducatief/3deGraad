@@ -5,11 +5,9 @@
       "en": "Scope and lifetime"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "internals": {
-    "token": "CEwInB3M6MtEIIAmzi6RXjbJZ4qtmCYUXttMMD8juIH69REfGDQMznnbET7Ae3xK",
+    "token": "KfPCFnIfw-rvJy_vri4miZhmwi6888KzgawUQ-MUEyEq4SjGjEfJ9244uVux3n5T",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
